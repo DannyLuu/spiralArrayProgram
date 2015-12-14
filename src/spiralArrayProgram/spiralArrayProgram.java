@@ -28,7 +28,7 @@ public class spiralArrayProgram {
 
 	int count = 1;
 
-	// The array will be constructed as an MxN array.
+	// Default - The array will be constructed as an 10x10 array.
 	public spiralArrayProgram() {
 		 m = 10;
 		 n = 10;
@@ -95,6 +95,12 @@ public class spiralArrayProgram {
 		}
 	}
 
+	/***
+	 * Prints a 2-d
+	 * @param a
+	 * @param m
+	 * @param n
+	 */
 	private void printArray(int[][] a, int m, int n) {
 		for (int i = 0; i < m; i++) {
 			System.out.println();
