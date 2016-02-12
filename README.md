@@ -1,8 +1,8 @@
-#Spiral Array
-## Spiraling inwards
+#Spiral Array Program
+## Spiraling inwards clockwise
 
 ###Description
-Written in java, this program will take the integer values greater than 1 create a spiraled matrix array from the top left corner, spiraling in a clockwise fashion moving inwards. The spiraled path will also have incrementing values starting at 1.
+Written in java, this program will take the integer values greater than 1 create a spiraled matrix array from the top left corner, spiraling in a clockwise fashion moving inwards. The spiraled path will also have incrementing values starting at 1. N and M doesn't necessarily need to be the same values for this to work.
 
 
 ###Examples
